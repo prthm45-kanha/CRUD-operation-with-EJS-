@@ -1,0 +1,26 @@
+{
+  "name": "crud-operation-with-ejs-",
+  "version": "1.0.0",
+  "description": "A CRUD application built with Node.js, Express.js, and EJS for managing data efficiently.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prthm45-kanha/CRUD-operation-with-EJS-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prthm45-kanha/CRUD-operation-with-EJS-/issues"
+  },
+  "homepage": "https://github.com/prthm45-kanha/CRUD-operation-with-EJS-#readme",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.0"
+  }
+}
